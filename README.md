@@ -1,3 +1,7 @@
+---
+output: html_document
+---
+
 # Overall description of PAPline
 
 ## Introduction
@@ -277,7 +281,7 @@ The *csv* file should look like this, if we want to highlight all groups, but *H
 
 The header names must remain intact, pca_pop have to be the group name within the *evec* file, name_pop reflects grouping and plotting order during visualisation, col_pop, fill_pop, shape_pop, stroke_pop, size_pop have to be filled logically, while label_pop can be filled with anything while many character types can be used, these names will appear in the legend of the plot. Label2 is yet under construction, it can be left as blank, or be filled with comments. Example files are provided within the folder.
 
-### str.r
+#### str.r
 
 This script works with Y chromosome STR data, and it provides a subselection of samples depending on step distance. This tool is useful, when samples of interest are "lost" for the high number of samples and high complexity of the STR network. The user shall provide two *csv* files, one with the database data, and one with the sample(s) of interest, both having the exact same structure. The user can specify the maximum STR step distance, meaning that the script select the samples from the database *csv* that are within the given step distance of the provided sample *csv*, thus excluding database samples of too much step distance, i.e. getting rid of unnecessarily distant samples. At the end, the script saves all samples into a *ych* file, which is the standard input for the [Network](https://www.fluxus-engineering.com/nwpub.htm) software. Example for input *csv* is provided within the folder.
 
