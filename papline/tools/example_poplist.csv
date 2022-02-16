@@ -1,0 +1,8 @@
+pca_pop,name_pop,col_pop,fill_pop,shape_pop,stroke_pop,size_pop,label_pop,label2
+Iberia_BA,a,deepskyblue,black,1,0.7,3,Ibérian,
+Iberia_C,b,darkslategray,black,7,0.3,3,español,
+Russia_MLBA_Krasnoyarsk,c,olivedrab3,black,12,0.4,3,Россия,
+Hungary_MN_Vinca,d,indianred,black,16,0.5,4,Őskori magyar,group1
+Hungary_LN_Sopot,d,indianred,black,16,0.5,4,Őskori magyar,group2
+Hungary_LN_Lengyel,d,indianred,black,16,0.5,4,Őskori magyar,group3
+Hungary_Medieval,e,black,firebrick3,21,0.5,3,Medieval_hun,

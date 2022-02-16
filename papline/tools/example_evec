@@ -1,0 +1,20 @@
+           #eigvals:     7.893     3.939     2.438     1.871 
+               I1836     0.0014      0.0042     -0.0001     -0.0007        Iberia_BA
+               I1838     0.0013      0.0065     -0.0001     -0.0013         Iberia_C
+               I1840     0.0024      0.0038      0.0001      0.0004        Iberia_BA
+               I1843     0.0020      0.0063     -0.0000     -0.0006         Iberia_C
+               I1851     0.0031     -0.0030      0.0002     -0.0007  Russia_MLBA_Krasnoyarsk
+               I1852     0.0032     -0.0023      0.0005     -0.0007  Russia_MLBA_Krasnoyarsk
+               I1853     0.0034     -0.0028      0.0002      0.0015  Russia_MLBA_Krasnoyarsk
+               I1856     0.0033     -0.0026      0.0001     -0.0002  Russia_MLBA_Krasnoyarsk
+               I1887    -0.0025      0.0056      0.0000     -0.0016  Hungary_MN_Vinca
+               I1888    -0.0011      0.0010     -0.0006     -0.0000  Hungary_Medieval
+               I1889    -0.0025      0.0058     -0.0004     -0.0009  Hungary_MN_Vinca
+               I1890    -0.0008      0.0046     -0.0003      0.0006  Hungary_LN_Sopot
+               I1891    -0.0013      0.0052      0.0000     -0.0000  Hungary_LN_Sopot
+               I1892    -0.0017      0.0028     -0.0004     -0.0000  Hungary_AvarPeriod_German
+               I1894    -0.0039      0.0051     -0.0004     -0.0003  Hungary_MN_Vinca
+               I1896    -0.0025      0.0058     -0.0003     -0.0005  Hungary_MN_Vinca
+               I1899    -0.0018      0.0053     -0.0001     -0.0007  Hungary_LN_Lengyel
+               I1900    -0.0021      0.0057     -0.0003      0.0003  Hungary_LN_Lengyel
+               I1901    -0.0016      0.0051     -0.0001     -0.0003  Hungary_LN_Lengyel
