@@ -184,6 +184,11 @@
 <td>R package at CRAN</td>
 <td>✔</td>
 </tr>
+<tr class="even">
+<td>yad</td>
+<td>Man page at <a href="https://www.mankier.com/1/yad" class="uri">https://www.mankier.com/1/yad</a> </td>
+<td>✔</td>
+</tr>
 </tbody>
 </table>
 <p>Also, be sure that your system is up to date. PAPline was mainly written under Ubuntu 18.04 and 20.04, accordingly system updates are recommended to be not older than 2018 versions.</p>
