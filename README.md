@@ -226,7 +226,7 @@
 </tr>
 </tbody>
 </table>
-<p>However, <strong>the header must be excluded from the actual csv file</strong> and the first line has to be the first sample! After installing PAPline an example sample list file (named as list.csv) is provided in the folder /xmp. No varying columns are allowed in the csv file to avoid mixing samples with one, two or without barcodes.</p>
+<p>However, <strong>the header must be excluded from the actual csv file</strong> and the first line has to be the first sample! After installing PAPline an example sample list file (named as list.csv) is provided in the folder /xmp. Varying columns are allowed, i.e. the user can add PE and SE samples to a single run (but not samples having both PE and SE reads), each having a different set of barcodes, for example sample 1 have no barcodes, sample 2 only P7 (=leaving P5 field empty), etc.</p>
 </div>
 <div id="installation" class="section level2">
 <h2>Installation</h2>
